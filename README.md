@@ -22,17 +22,8 @@ Welcome to the **We Save Animals (WSA)** website. Our mission is to raise awaren
 
 - HTML5  
 - CSS3 (including responsive design)  
-- JavaScript (if applicable)  
-- Deployed with [Netlify](https://www.netlify.com) or similar hosting.
+- JavaScript  
+- Deployed with [Netlify](https://www.netlify.com) .
 
-## 📥 Installation & Setup
-
-This is the live demo of the project:  
-👉 **https://deft-kelpie-0d2725.netlify.app/**
-
-If you want to run the project locally:
-
-1. Download or clone the source code from your GitHub repository.  
-2. Open the project folder in your code editor (VS Code recommended).  
-3. Open `index.html` in your browser or use Live Server to preview the site.  
-
+### 🔗 Live Demo  
+https://deft-kelpie-0d2725.netlify.app/
